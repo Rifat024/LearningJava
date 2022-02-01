@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="11" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/selenium-json-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-firefox-driver-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-ie-driver-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-devtools-v95-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-devtools-v94-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-opera-driver-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-remote-driver-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-http-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-support-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-devtools-v85-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-api-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-chromium-driver-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-safari-driver-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-edge-driver-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-chrome-driver-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-java-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-devtools-v93-4.0.0.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-firefox-xpi-driver-4.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://G:/BITs/selenium/selenium-devtools-v85-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-json-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-firefox-xpi-driver-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-api-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-remote-driver-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-devtools-v95-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-ie-driver-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-opera-driver-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-edge-driver-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-safari-driver-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-support-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-http-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-chrome-driver-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-chromium-driver-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-devtools-v94-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-firefox-driver-4.0.0-sources.jar!/" />
+          <root url="jar://G:/BITs/selenium/selenium-devtools-v93-4.0.0-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/async-http-client-2.12.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/async-http-client-netty-utils-2.12.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/auto-common-1.1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/auto-service-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/auto-service-annotations-1.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/byte-buddy-1.11.19.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/checker-qual-3.12.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/commons-exec-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/error_prone_annotations-2.7.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/failureaccess-1.0.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/guava-31.0.1-jre.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/j2objc-annotations-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/jakarta.activation-1.2.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/jcommander-1.81.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/jsr305-3.0.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/jtoml-2.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-buffer-4.1.68.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-codec-4.1.68.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-codec-http-4.1.67.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-codec-socks-4.1.67.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-common-4.1.68.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-handler-4.1.68.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-handler-proxy-4.1.67.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-reactive-streams-2.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-resolver-4.1.68.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-transport-4.1.68.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-transport-native-epoll-4.1.67.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-transport-native-kqueue-4.1.67.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/netty-transport-native-unix-common-4.1.67.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/opentelemetry-api-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/opentelemetry-api-metrics-1.6.0-alpha.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/opentelemetry-context-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/opentelemetry-exporter-logging-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/opentelemetry-sdk-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/opentelemetry-sdk-common-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/opentelemetry-sdk-extension-autoconfigure-1.6.0-alpha.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/opentelemetry-sdk-metrics-1.6.0-alpha.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/opentelemetry-sdk-trace-1.6.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/opentelemetry-semconv-1.6.0-alpha.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/reactive-streams-1.0.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://G:/BITs/selenium/lib/slf4j-api-1.7.32.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="JUnit4">
+        <CLASSES>
+          <root url="jar://$MAVEN_REPOSITORY$/junit/junit/4.13.1/junit-4.13.1.jar!/" />
+          <root url="jar://$MAVEN_REPOSITORY$/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
