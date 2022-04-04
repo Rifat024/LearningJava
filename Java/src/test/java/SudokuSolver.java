@@ -1,6 +1,3 @@
-package  Test;
-
-
 public class SudokuSolver {
 
     private static final int GRID_SIZE = 9;
