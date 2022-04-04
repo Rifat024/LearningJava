@@ -21,5 +21,6 @@ public class HashSetDemo {
 
         System.out.println(hashSet.size());
         System.out.println(hashSet);
+        System.out.println(hashSet.isEmpty());
     }
 }
