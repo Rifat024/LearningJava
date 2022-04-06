@@ -18,7 +18,7 @@ public class FileHandlingDemo {
             System.out.println("An exception Occurred");
             e.printStackTrace();
         }
-        File file2 = new File("H:\\Files\\file3.txt");
+        File file2 = new File("H:\\Files\\file1.txt");
         if (file2.exists()){
             System.out.println("File Name="+file2.getName());
             System.out.println("File Path="+file2.getAbsolutePath());
